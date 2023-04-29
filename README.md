@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![gitartwork](gitartwork.svg)
+
 <!--
 **aayush-rajpara/aayush-rajpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
